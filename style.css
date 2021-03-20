@@ -1,0 +1,72 @@
+.navigation {
+  background-color: #ff8c00;
+}
+.button {
+    background-color: #ff8c00;
+    border: none;
+    margin-top: 10px;
+}
+ body .card1 {
+    margin: 0 auto;
+    margin-top: 100px;
+    border: none;
+    background: rgba(0, 0, 0, 0.0);
+    color: #ff8c00;
+  }
+  body {
+    background-color: white;
+
+
+  }
+body .card1 p {
+  color: white;
+}
+.my-col img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.subject {
+  color:  #ff8c00;
+  margin-bottom: 40px;
+}
+.name {
+  color:  #ff8c00;
+}
+.profile-photo img {
+  border-radius: 50%;
+  height: 500px;
+}
+.main {
+  background-color: white;
+
+}
+.info, .profession {
+  color: #808080;
+}
+.info-cont .info {
+  border: none;
+  border-left: 5px solid #ff8c00;
+  padding-left: 60px;
+}
+.profession {
+  margin-top: 2px;
+  text-align: center;
+}
+.body {
+  background-color: white;
+}
+.subject-container h1 {
+  align-items: center;
+  margin-top: 100px;
+  font-weight: 300;
+}
+@media (max-width: 992px) {
+}
+@media (max-width: 768px) {
+  .my-text {
+  display: none;
+}
+.column {
+    display: none;
+}
+}
